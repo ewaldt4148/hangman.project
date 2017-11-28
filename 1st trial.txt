@@ -1,0 +1,336 @@
+Enter name: Emma
+
+
+       ,-'''''-.:-^-._                                _,-^-;,-'''''-.
+      /      '  ( `  _\    Welcome to Hippo Run      /_  ` )  `      \      
+      \      \   _ .,-'                              `-., _,  ;      /
+       )_\-._-._((_(                                   )_))_,-_,-/_(
+                                   Emma
+ 
+Hello Emma. The goal of this game is to guess the word before the Hippo gets away.
+ Since we all like hippos please for all of human kinds sake dont let the
+ hippo get away.
+ 
+ 
+ 
+You only 6 guesses in each difficulty so choose wisely.
+Difficulty 1: 3 letter words
+Difficulty 2: 4 letter words
+Difficulty 3: 5 letter words
+Please enter your difficulty:
+Please enter 1, 2, or 3
+Please enter your difficulty:1
+---
+Enter a letter: c
+***********
+---
+***********
+Letters already guessed: ? , ! c,
+Strikes: 1
+_\|/^              ,-'''''-.:-^-._ 
+(_oo              /      '  ( `  _\ 
+ |               \      \   _ .,-' 
+/|\               )_\-._-._((_(
+ 
+ 
+ 
+Enter a letter: a
+***********
+-a-
+***********
+Letters already guessed: ? , ! c,a,
+Strikes: 1
+_\|/^              ,-'''''-.:-^-._ 
+(_oo              /      '  ( `  _\ 
+ |               \      \   _ .,-' 
+/|\               )_\-._-._((_(
+ 
+ 
+ 
+Enter a letter: t
+***********
+-a-
+***********
+Letters already guessed: ? , ! c,a,t,
+Strikes: 2
+_\|/^                           ,-'''''-.:-^-._ 
+(_oo                           /      '  ( `  _\ 
+ |                            \      \   _ .,-' 
+/|\                            )_\-._-._((_(
+ 
+ 
+ 
+Enter a letter: b
+***********
+-a-
+***********
+Letters already guessed: ? , ! c,a,t,b,
+Strikes: 3
+_\|/^                                        ,-'''''-.:-^-._ 
+(_oo                                        /      '  ( `  _\ 
+ |                                         \      \   _ .,-' 
+/|\                                         )_\-._-._((_(
+ 
+ 
+ 
+Enter a letter: s
+***********
+-a-
+***********
+Letters already guessed: ? , ! c,a,t,b,s,
+Strikes: 4
+_\|/^                                                     ,-'''''-.:-^-._ 
+(_oo                                                     /      '  ( `  _\ 
+ |                                                      \      \   _ .,-' 
+/|\                                                      )_\-._-._((_(
+ 
+ 
+ 
+Enter a letter: t
+You already guessed that latter
+Enter a letter: s
+You already guessed that latter
+Enter a letter: q
+***********
+-a-
+***********
+Letters already guessed: ? , ! c,a,t,b,s,q,
+Strikes: 5
+_\|/^                                                                  ,-'''''-.:-^-._ 
+(_oo                                                                  /      '  ( `  _\ 
+ |                                                                   \      \   _ .,-' 
+/|\                                                                   )_\-._-._((_(
+ 
+ 
+ 
+Enter a letter: y
+***********
+-a-
+***********
+Letters already guessed: ? , ! c,a,t,b,s,q,y,
+Strikes: 6
+ 
+ 
+ 
+ 
+You lose.
+The word was ran.
+Would you like to play again, Emma? (y/n) y
+
+You only 6 guesses in each difficulty so choose wisely.
+Difficulty 1: 3 letter words
+Difficulty 2: 4 letter words
+Difficulty 3: 5 letter words
+Please enter your difficulty:3
+-----
+Enter a letter: s
+***********
+-----
+***********
+Letters already guessed: ? , ! s,
+Strikes: 1
+_\|/^              ,-'''''-.:-^-._ 
+(_oo              /      '  ( `  _\ 
+ |               \      \   _ .,-' 
+/|\               )_\-._-._((_(
+ 
+ 
+ 
+Enter a letter: a
+***********
+-----
+***********
+Letters already guessed: ? , ! s,a,
+Strikes: 2
+_\|/^                           ,-'''''-.:-^-._ 
+(_oo                           /      '  ( `  _\ 
+ |                            \      \   _ .,-' 
+/|\                            )_\-._-._((_(
+ 
+ 
+ 
+Enter a letter: i
+***********
+--i--
+***********
+Letters already guessed: ? , ! s,a,i,
+Strikes: 2
+_\|/^                           ,-'''''-.:-^-._ 
+(_oo                           /      '  ( `  _\ 
+ |                            \      \   _ .,-' 
+/|\                            )_\-._-._((_(
+ 
+ 
+ 
+Enter a letter: h
+***********
+-hi--
+***********
+Letters already guessed: ? , ! s,a,i,h,
+Strikes: 2
+_\|/^                           ,-'''''-.:-^-._ 
+(_oo                           /      '  ( `  _\ 
+ |                            \      \   _ .,-' 
+/|\                            )_\-._-._((_(
+ 
+ 
+ 
+Enter a letter: c
+***********
+chic-
+***********
+Letters already guessed: ? , ! s,a,i,h,c,
+Strikes: 2
+_\|/^                           ,-'''''-.:-^-._ 
+(_oo                           /      '  ( `  _\ 
+ |                            \      \   _ .,-' 
+/|\                            )_\-._-._((_(
+ 
+ 
+ 
+Enter a letter: k
+***********
+chick
+***********
+Letters already guessed: ? , ! s,a,i,h,c,k,
+Strikes: 2
+_\|/^                           ,-'''''-.:-^-._ 
+(_oo                           /      '  ( `  _\ 
+ |                            \      \   _ .,-' 
+/|\                            )_\-._-._((_(
+ 
+ 
+ 
+You win!
+Would you like to play again, Emma? (y/n) y
+
+You only 6 guesses in each difficulty so choose wisely.
+Difficulty 1: 3 letter words
+Difficulty 2: 4 letter words
+Difficulty 3: 5 letter words
+Please enter your difficulty:2
+----
+Enter a letter: w
+***********
+----
+***********
+Letters already guessed: ? , ! w,
+Strikes: 1
+_\|/^              ,-'''''-.:-^-._ 
+(_oo              /      '  ( `  _\ 
+ |               \      \   _ .,-' 
+/|\               )_\-._-._((_(
+ 
+ 
+ 
+Enter a letter: o
+***********
+----
+***********
+Letters already guessed: ? , ! w,o,
+Strikes: 2
+_\|/^                           ,-'''''-.:-^-._ 
+(_oo                           /      '  ( `  _\ 
+ |                            \      \   _ .,-' 
+/|\                            )_\-._-._((_(
+ 
+ 
+ 
+Enter a letter: a
+***********
+-a--
+***********
+Letters already guessed: ? , ! w,o,a,
+Strikes: 2
+_\|/^                           ,-'''''-.:-^-._ 
+(_oo                           /      '  ( `  _\ 
+ |                            \      \   _ .,-' 
+/|\                            )_\-._-._((_(
+ 
+ 
+ 
+Enter a letter: l
+***********
+-a--
+***********
+Letters already guessed: ? , ! w,o,a,l,
+Strikes: 3
+_\|/^                                        ,-'''''-.:-^-._ 
+(_oo                                        /      '  ( `  _\ 
+ |                                         \      \   _ .,-' 
+/|\                                         )_\-._-._((_(
+ 
+ 
+ 
+Enter a letter: w
+You already guessed that latter
+Enter a letter: l
+You already guessed that latter
+Enter a letter: c
+***********
+-a--
+***********
+Letters already guessed: ? , ! w,o,a,l,c,
+Strikes: 4
+_\|/^                                                     ,-'''''-.:-^-._ 
+(_oo                                                     /      '  ( `  _\ 
+ |                                                      \      \   _ .,-' 
+/|\                                                      )_\-._-._((_(
+ 
+ 
+ 
+Enter a letter: a
+You already guessed that latter
+Enter a letter: i
+***********
+-a--
+***********
+Letters already guessed: ? , ! w,o,a,l,c,i,
+Strikes: 5
+_\|/^                                                                  ,-'''''-.:-^-._ 
+(_oo                                                                  /      '  ( `  _\ 
+ |                                                                   \      \   _ .,-' 
+/|\                                                                   )_\-._-._((_(
+ 
+ 
+ 
+Enter a letter: o
+You already guessed that latter
+Enter a letter: p
+***********
+-a--
+***********
+Letters already guessed: ? , ! w,o,a,l,c,i,p,
+Strikes: 6
+ 
+ 
+ 
+ 
+You lose.
+The word was jazz.
+Would you like to play again, Emma? (y/n) n
+
+Thank you for playing, Emma. Come back soon! Game made bt Emma #1
+
+
+                     .^.,*.
+                    (   )  )
+                   .~       "-._   _.-'-*'-*'-*'-*'-'-.--._
+                 /'             `"'                        `.
+               _/'                                           `.
+          __,""                                                ).--.
+       .-'       `._.'                                          .--.      '                                                         )   \`:
+     ;                                                          ;    "
+    :                                                           )
+    | 8                                                        ;
+     =                  )                                     .
+      \                .                                    .'
+       `.            ~  \                                .-'
+         `-._ _ _ . '    `.          ._        _        |
+                           |        /  `"-*--*' |       |  
+                           |        |           |       :
+ ~~~~~~~---   ~-~-~-~   -~-~-~-~-~-~~~~~~  ~~~~  ~-~-~-~-~-~-~-
+------~~~~~~~~~----------~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~
+ ~~~~~~~~~   ~~~~~~~~~       ~~~~~~~   ~~~~~~~~~  ~~~~~~~~~~~~~~~
+ 
+>>> 
